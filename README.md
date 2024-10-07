@@ -42,6 +42,25 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YIOjJAL7X_4)
 
 
+### DO YOU WANT A FAST PANEL AND WORRY LESS ABOUT DAILY COINS?
+
+| Panel Sizes                       | Panel Prices                                         
+| ---------------------------------| ------------------------------
+| 1GB RAM PANEL                    | 500  NAIRA   ✅   
+| 2GB RAM PANEL                    | 1000 NAIRA   ✅                
+| 3GB RAM PANEL                    | 1500 NAIRA   ✅   
+| 4GB RAM PANEL                    | 2000 NAIRA   ✅             
+| 5GB RAM PANEL                    | 2500 NAIRA   ✅            
+| 6GB RAM PANEL                    | 3000 NAIRA   ✅         
+| 7GB RAM PANEL                    | 3500 NAIRA   ✅        
+| 8GB RAM PANEL                    | 4000 NAIRA   ✅     
+| 9GB RAM PANEL                    | 5000 NAIRA   ✅     
+| 10GB RAM PANEL                   | 5500 NAIRA   ✅
+
+
+`Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
+
+
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
 
