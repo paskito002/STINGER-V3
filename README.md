@@ -46,7 +46,7 @@
 
 | Panel Sizes                       | Panel Prices                                         
 | ---------------------------------| ------------------------------
-| 1GB RAM PANEL                    | 500  NAIRA   ✅   
+| 1GB RAM PANEL                    | 500  NAIRA    ✅   
 | 2GB RAM PANEL                    | 1000 NAIRA   ✅                
 | 3GB RAM PANEL                    | 1500 NAIRA   ✅   
 | 4GB RAM PANEL                    | 2000 NAIRA   ✅             
@@ -57,11 +57,9 @@
 | 9GB RAM PANEL                    | 5000 NAIRA   ✅     
 | 10GB RAM PANEL                   | 5500 NAIRA   ✅
 
+# Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!
 
-`Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
-</p>
-
-    <h2 align="center"> ⚠️ NOTE  </h2>
+    <h2 align="center"> ⚠️ NOTE </h2>
 ## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
