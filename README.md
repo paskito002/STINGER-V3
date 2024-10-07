@@ -57,10 +57,9 @@
 | 9GB RAM PANEL                    | 5000 NAIRA   ✅     
 | 10GB RAM PANEL                   | 5500 NAIRA   ✅
 
-# Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!
+`Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
 
-    <h2 align="center"> ⚠️ NOTE </h2>
-## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
+## NOTE : STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
