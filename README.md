@@ -59,7 +59,7 @@
 
 
 `Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
-
+</p>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
