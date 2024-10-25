@@ -25,18 +25,14 @@
 
 <a href='https://github.com/paskito002/STINGER-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. PURCHASE THE FILE FROM ES TEAMS TECH
-
-<a href="https://t.me/examsolutionteam "><img src="https://img.shields.io/badge/PURCHASE-blue" alt="Click Here to Purchase Stinger-V3" width="110"></a> 
-
-
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
-### 3. DEPLOY ON PANEL
+### 2. DEPLOY ON PANEL
 
 1. If you don't have an account in PANEL, create one and Deploy
     <br>
-    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    <br>
+    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=discord&logoColor=white'/></a>
 
 ## WATCH PANEL TUTORIAL VIDEO.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YIOjJAL7X_4)
