@@ -32,7 +32,7 @@
 1. If you don't have an account in PANEL, create one and Deploy
     <br>
     <br>
-    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=discord&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=discord&logoColor=ash'/></a>
 
 ## WATCH PANEL TUTORIAL VIDEO.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YIOjJAL7X_4)
